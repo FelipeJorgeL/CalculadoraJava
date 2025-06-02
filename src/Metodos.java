@@ -24,10 +24,10 @@ public class Metodos {
     }
 
     public String toString() {
-        return "CALCULADORA " +
-                "\n7 | 8 | 9 | x" +
-                "\n4 | 5 | 6 | -" +
-                "\n1 | 2 | 3 | +" +
-                "\n  | 0 |  ";
+        return "     CALCULADORA " +
+                "\n| 7 | 8 | 9 | x |" +
+                "\n| 4 | 5 | 6 | - |" +
+                "\n| 1 | 2 | 3 | + |" +
+                "\n|   | 0 |   | / |";
     }
 }
